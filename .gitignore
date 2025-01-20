@@ -1,0 +1,44 @@
+# =========================
+# PHPStorm en IDE-specifieke bestanden
+# =========================
+.idea/
+.vscode/
+nbproject/
+
+# =========================
+# Systeem-/Editor-specifieke bestanden
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Log en cache bestanden
+# =========================
+*.log
+/logs/
+/cache/
+/tmp/
+
+# =========================
+# Composer
+# =========================
+/vendor/
+
+# =========================
+# Environment bestanden
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Configuratiebestand(en)
+# =========================
+ini.inc
+
+# =========================
+# Overige directories/files
+# =========================
+# /storage/
+# /node_modules/
+
